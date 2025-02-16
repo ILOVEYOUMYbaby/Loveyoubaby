@@ -40,7 +40,7 @@ noButton.addEventListener("click", function() {
     if (clickCount === 1) mainImage.src = "5.jpg"; // 震惊
     if (clickCount === 2) mainImage.src = "6.jpg";   // 思考
     if (clickCount === 3) mainImage.src = "7.jpg";   // 生气
-    if (clickCount === 4) mainImage.src = "7.gif";  // 哭
+    if (clickCount === 4) mainImage.src = "8.jpg";  // 哭
     if (clickCount >= 5) mainImage.src = "9.jpg";  // 之后一直是哭
 
 });
